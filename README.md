@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sergio!
 #### I'm an aspiring Cybersecurity Professional
-![I'm an aspiring Cybersecurity Professional](https://media.giphy.com/media/dQI7VYlXIrzoVzMgGA/giphy.gif)
+![I'm an aspiring Cybersecurity Professional](https://github.com/serghdz/serghdz/blob/main/megaman.gif?raw=true)
 
 🔒 My Cybersecurity Journey:
    - 📚 Currently studying for CompTIA Security+ (Sec+) and CompTIA Cybersecurity Analyst+ (CySA+) certifications to solidify my foundational knowledge.
