@@ -9,7 +9,7 @@
    - 🐍 Learning Python to automate tasks, perform security analysis, and develop cybersecurity solutions.
 
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
