@@ -11,7 +11,7 @@
 
 
 
-<div> <img src="https://tryhackme-badges.s3.amazonaws.com/serg.hdz.png" alt="TryHackMe">  <img src="https://github.com/serghdz/serghdz/blob/main/google-cybersecurity-certificate.png?raw=true" alt="Google Cybersecurity Badge"> 
+<div>  <img src="https://github.com/serghdz/serghdz/blob/main/google-cybersecurity-certificate.png?raw=true" alt="Google Cybersecurity Badge"> <img src="https://tryhackme-badges.s3.amazonaws.com/serg.hdz.png" alt="TryHackMe"> </div> 
 
 
 
