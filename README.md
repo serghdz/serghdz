@@ -11,9 +11,9 @@
 
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/serg.hdz.png" alt="TryHackMe">  
+<img src="https://tryhackme-badges.s3.amazonaws.com/serg.hdz.png" alt="TryHackMe">     ![google certificate](https://github.com/serghdz/serghdz/blob/main/google-cybersecurity-certificate.png?raw=true) 
 
-![google certificate](https://github.com/serghdz/serghdz/blob/main/google-cybersecurity-certificate.png?raw=true)
+
 
 
 
