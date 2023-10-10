@@ -11,7 +11,7 @@
 
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/serg.hdz.png" alt="TryHackMe">  (https://www.credly.com/badges/4cb07553-9bd9-4ade-9929-c1f8575552f8/public_url)
+<img src="https://tryhackme-badges.s3.amazonaws.com/serg.hdz.png" alt="TryHackMe">  
 
 
 
