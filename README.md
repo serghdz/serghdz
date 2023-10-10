@@ -9,7 +9,7 @@
    - 🐍 Learning Python to automate tasks, perform security analysis, and develop cybersecurity solutions.
 
 
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/serg.hdz.png" alt="TryHackMe">
 
 
 
