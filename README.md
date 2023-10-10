@@ -11,7 +11,7 @@
 
 
 
-<div>  <a href="https://www.coursera.org/account/accomplishments/professional-cert/Y5A34G937QYF" ><img src="https://github.com/serghdz/serghdz/blob/main/google-cybersecurity-certificate.png?raw=true" alt="Google Cybersecurity Badge"></a> <img src="https://tryhackme-badges.s3.amazonaws.com/serg.hdz.png" alt="TryHackMe"> </div> 
+<div> <a href="https://coursera.org/share/719ff8d5dc7fd3fc2024f1dbe1589c8f"> <img src="https://github.com/serghdz/serghdz/blob/main/google-cybersecurity-certificate.png?raw=true" alt="Google Cybersecurity Badge"></a> <img src="https://tryhackme-badges.s3.amazonaws.com/serg.hdz.png" alt="TryHackMe"> </div> 
 
 
 
