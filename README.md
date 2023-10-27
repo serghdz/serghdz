@@ -13,7 +13,9 @@
 
 <div> <a href="https://coursera.org/share/719ff8d5dc7fd3fc2024f1dbe1589c8f"> <img src="https://github.com/serghdz/serghdz/blob/main/google-cybersecurity-certificate.png?raw=true" alt="Google Cybersecurity Badge"></a> <img src="https://tryhackme-badges.s3.amazonaws.com/serg.hdz.png" alt="TryHackMe"> </div> 
 
+<hr>
+<br>
 
 
-Currently engaged in Home Lab projects. Updates and posts coming soon! 
+-Currently engaged in Home Lab projects. Updates and posts coming soon!-
 
