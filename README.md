@@ -5,21 +5,24 @@
 
 <h2 align="center">Recent Repos</h2>
 
-<p align="center">
-  <!-- 1. Threat Hunting with Splunk -->
-  <a href="https://github.com/serghdz/Threat-Hunting-with-Splunk">
-    <img width="300"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=serghdz&repo=Threat-Hunting-with-Splunk&theme=react&bg_color=565857&title_color=00EDF7FF&hide_border=true&icon_color=F8D866&show_icons=true"
-         alt="Threat Hunting with Splunk">
-  </a>
+<table align="center">
+  <tr>
 
-  <!-- 2. Add another repo the same way -->
-  <!--
-  <a href="https://github.com/serghdz/another-repo">
-    <img width="300"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=serghdz&repo=another-repo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true"
-         alt="Another Repo">
-  </a>
-  -->
-</p>
+  <td align="center" width="340" style="border: none; padding: 0;">
+      <a href="https://github.com/serghdz/Threat-Hunting-with-Splunk">
+        <img width="300"
+             src="https://github-readme-stats.vercel.app/api/pin/?username=serghdz&repo=Threat-Hunting-with-Splunk&theme=react&bg_color=241623&title_color=00EDF7FF&text_color=FFFFFF&icon_color=F8D866&show_icons=true&border_radius=16&border_color=00EDFF&border_width=3"
+             alt="Threat Hunting with Splunk">
+      </a>
+    </td>
 
+    
+  <td align="center" width="340" style="border: none; padding: 0;">
+      <a href="https://github.com/serghdz/Azure-Honeypot-Lab">
+        <img width="300"
+             src="https://github-readme-stats.vercel.app/api/pin/?username=serghdz&repo=Azure-Honeypot-Lab&theme=react&bg_color=241623&title_color=00EDF7FF&text_color=FFFFFF&icon_color=F8D866&show_icons=true&border_radius=16&border_color=00EDFF&border_width=3"
+             alt="Azure Honeypot Lab">
+      </a>
+    </td>
+  </tr>
+</table>
