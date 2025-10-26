@@ -1,7 +1,3 @@
-## Welcome to my Github
-
----
-
-## Sergio Hernandez
+<center> ## Sergio Hernandez </center> 
 ### Aspiring IT professional
 
