@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 ## Sergio Hernandez 
 ### Aspiring IT Professional
 </div>
